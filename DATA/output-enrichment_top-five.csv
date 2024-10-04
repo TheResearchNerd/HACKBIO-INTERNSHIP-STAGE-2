@@ -1,0 +1,6 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+2.27992463283822e-08,13,99,10.9257300275482,"Path:hsa04061 Viral protein interaction with cytokine and cytokine receptor","http://www.genome.jp/kegg-bin/show_pathway?hsa04061 "," CXCL13  IL24  CXCL8  CXCL10  CXCL9  PPBP  CCL28  CCL7  CCL8  CCL13  CCL17  CCL19  CXCL11"
+0.00093192937650659,8,93,7.15730205278592,"Path:hsa04657 IL-17 signaling pathway","http://www.genome.jp/kegg-bin/show_pathway?hsa04657 "," CSF2  CSF3  CXCL8  CXCL10  LCN2  MMP13  CCL7  CCL17"
+1.71796580022598e-08,21,294,5.94311688311688,"Path:hsa04060 Cytokine-cytokine receptor interaction","http://www.genome.jp/kegg-bin/show_pathway?hsa04060 "," CXCL13  IL24  CSF2  CSF3  GDF7  EPO  CXCL8  INHBC  CXCL10  LEP  CXCL9  PPBP  CCL28  TNFRSF17  CCL7  CCL8  CCL13  CCL17  CCL19  CXCL11  GDF3"
+0.00876646131739745,7,99,5.88308539944904,"Path:hsa04640 Hematopoietic cell lineage","http://www.genome.jp/kegg-bin/show_pathway?hsa04640 "," CR1  CR2  CSF2  CSF3  EPO  CD1B  CD8B"
+4.38524224701265e-05,13,191,5.6630747263208,"Path:hsa04062 Chemokine signaling pathway","http://www.genome.jp/kegg-bin/show_pathway?hsa04062 "," CXCL13  CXCL8  CXCL10  CXCL9  PIK3CD  PPBP  CCL28  CCL7  CCL8  CCL13  CCL17  CCL19  CXCL11"
